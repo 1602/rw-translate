@@ -1,0 +1,16 @@
+{
+  "author": "Anatoliy Chakkaev",
+  "name": "rw-translate",
+  "description": "RW plugin for automated locale files translation using google translate",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:1602/rw-translate.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= v0.4.9"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
